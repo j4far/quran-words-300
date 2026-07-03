@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Quran Words 300 icon</title>
+  <desc id="desc">An abstract open book with a gold learning path and geometric star.</desc>
+  <defs>
+    <linearGradient id="teal" x1="80" y1="52" x2="438" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#087b70"/>
+      <stop offset="1" stop-color="#003f39"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="170" y1="134" x2="332" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f1cf76"/>
+      <stop offset=".48" stop-color="#c99a2e"/>
+      <stop offset="1" stop-color="#9c7220"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#001c19" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <rect x="40" y="40" width="432" height="432" rx="88" fill="url(#teal)" filter="url(#softShadow)"/>
+  <rect x="54" y="54" width="404" height="404" rx="76" fill="none" stroke="#d5aa48" stroke-width="7"/>
+  <path d="M256 88c24 55 80 71 87 139-31-43-66-60-87-94-21 34-56 51-87 94 7-68 63-84 87-139z" fill="#fff8ec"/>
+  <path d="M116 286c43 10 79 29 110 59-43-15-83-18-122-9v-86c40 7 77 25 111 53-34-18-67-27-99-28v11z" fill="#fff8ec"/>
+  <path d="M396 286c-43 10-79 29-110 59 43-15 83-18 122-9v-86c-40 7-77 25-111 53 34-18 67-27 99-28v11z" fill="#fff8ec"/>
+  <path d="M104 339c55-8 107 2 152 33 45-31 97-41 152-33" fill="none" stroke="#d5aa48" stroke-width="15" stroke-linecap="round"/>
+  <path d="M256 364c-18-54 50-61 16-110-18-26-30-39-1-73-5 41 41 52 37 87-4 35-45 49-52 96z" fill="url(#gold)"/>
+  <path d="M256 162l20 27 34-2-18 29 18 29-34-2-20 27-20-27-34 2 18-29-18-29 34 2 20-27z" fill="none" stroke="#d5aa48" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M256 206l12 12-12 12-12-12 12-12z" fill="#087b70"/>
+</svg>
