@@ -1,0 +1,602 @@
+[
+  {
+    "id": "unit-01",
+    "title": "Common Words 1-10",
+    "unitTitle": "Quran Words Unit 1",
+    "description": "Ten high-frequency Quranic Arabic words ranked 1-10.",
+    "wordIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "difficulty": 1,
+    "order": 1
+  },
+  {
+    "id": "unit-02",
+    "title": "Common Words 11-20",
+    "unitTitle": "Quran Words Unit 2",
+    "description": "Ten high-frequency Quranic Arabic words ranked 11-20.",
+    "wordIds": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "difficulty": 1,
+    "order": 2
+  },
+  {
+    "id": "unit-03",
+    "title": "Common Words 21-30",
+    "unitTitle": "Quran Words Unit 3",
+    "description": "Ten high-frequency Quranic Arabic words ranked 21-30.",
+    "wordIds": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "difficulty": 1,
+    "order": 3
+  },
+  {
+    "id": "unit-04",
+    "title": "Common Words 31-40",
+    "unitTitle": "Quran Words Unit 4",
+    "description": "Ten high-frequency Quranic Arabic words ranked 31-40.",
+    "wordIds": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "difficulty": 1,
+    "order": 4
+  },
+  {
+    "id": "unit-05",
+    "title": "Common Words 41-50",
+    "unitTitle": "Quran Words Unit 5",
+    "description": "Ten high-frequency Quranic Arabic words ranked 41-50.",
+    "wordIds": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "difficulty": 1,
+    "order": 5
+  },
+  {
+    "id": "unit-06",
+    "title": "Common Words 51-60",
+    "unitTitle": "Quran Words Unit 6",
+    "description": "Ten high-frequency Quranic Arabic words ranked 51-60.",
+    "wordIds": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "difficulty": 1,
+    "order": 6
+  },
+  {
+    "id": "unit-07",
+    "title": "Common Words 61-70",
+    "unitTitle": "Quran Words Unit 7",
+    "description": "Ten high-frequency Quranic Arabic words ranked 61-70.",
+    "wordIds": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "difficulty": 1,
+    "order": 7
+  },
+  {
+    "id": "unit-08",
+    "title": "Common Words 71-80",
+    "unitTitle": "Quran Words Unit 8",
+    "description": "Ten high-frequency Quranic Arabic words ranked 71-80.",
+    "wordIds": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "difficulty": 1,
+    "order": 8
+  },
+  {
+    "id": "unit-09",
+    "title": "Common Words 81-90",
+    "unitTitle": "Quran Words Unit 9",
+    "description": "Ten high-frequency Quranic Arabic words ranked 81-90.",
+    "wordIds": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "difficulty": 2,
+    "order": 9
+  },
+  {
+    "id": "unit-10",
+    "title": "Common Words 91-100",
+    "unitTitle": "Quran Words Unit 10",
+    "description": "Ten high-frequency Quranic Arabic words ranked 91-100.",
+    "wordIds": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "difficulty": 2,
+    "order": 10
+  },
+  {
+    "id": "unit-11",
+    "title": "Common Words 101-110",
+    "unitTitle": "Quran Words Unit 11",
+    "description": "Ten high-frequency Quranic Arabic words ranked 101-110.",
+    "wordIds": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "difficulty": 2,
+    "order": 11
+  },
+  {
+    "id": "unit-12",
+    "title": "Common Words 111-120",
+    "unitTitle": "Quran Words Unit 12",
+    "description": "Ten high-frequency Quranic Arabic words ranked 111-120.",
+    "wordIds": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "difficulty": 2,
+    "order": 12
+  },
+  {
+    "id": "unit-13",
+    "title": "Common Words 121-130",
+    "unitTitle": "Quran Words Unit 13",
+    "description": "Ten high-frequency Quranic Arabic words ranked 121-130.",
+    "wordIds": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "difficulty": 2,
+    "order": 13
+  },
+  {
+    "id": "unit-14",
+    "title": "Common Words 131-140",
+    "unitTitle": "Quran Words Unit 14",
+    "description": "Ten high-frequency Quranic Arabic words ranked 131-140.",
+    "wordIds": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "difficulty": 2,
+    "order": 14
+  },
+  {
+    "id": "unit-15",
+    "title": "Common Words 141-150",
+    "unitTitle": "Quran Words Unit 15",
+    "description": "Ten high-frequency Quranic Arabic words ranked 141-150.",
+    "wordIds": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "difficulty": 2,
+    "order": 15
+  },
+  {
+    "id": "unit-16",
+    "title": "Common Words 151-160",
+    "unitTitle": "Quran Words Unit 16",
+    "description": "Ten high-frequency Quranic Arabic words ranked 151-160.",
+    "wordIds": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "difficulty": 2,
+    "order": 16
+  },
+  {
+    "id": "unit-17",
+    "title": "Common Words 161-170",
+    "unitTitle": "Quran Words Unit 17",
+    "description": "Ten high-frequency Quranic Arabic words ranked 161-170.",
+    "wordIds": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "difficulty": 2,
+    "order": 17
+  },
+  {
+    "id": "unit-18",
+    "title": "Common Words 171-180",
+    "unitTitle": "Quran Words Unit 18",
+    "description": "Ten high-frequency Quranic Arabic words ranked 171-180.",
+    "wordIds": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "difficulty": 2,
+    "order": 18
+  },
+  {
+    "id": "unit-19",
+    "title": "Common Words 181-190",
+    "unitTitle": "Quran Words Unit 19",
+    "description": "Ten high-frequency Quranic Arabic words ranked 181-190.",
+    "wordIds": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "difficulty": 3,
+    "order": 19
+  },
+  {
+    "id": "unit-20",
+    "title": "Common Words 191-200",
+    "unitTitle": "Quran Words Unit 20",
+    "description": "Ten high-frequency Quranic Arabic words ranked 191-200.",
+    "wordIds": [
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "difficulty": 3,
+    "order": 20
+  },
+  {
+    "id": "unit-21",
+    "title": "Common Words 201-210",
+    "unitTitle": "Quran Words Unit 21",
+    "description": "Ten high-frequency Quranic Arabic words ranked 201-210.",
+    "wordIds": [
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    "difficulty": 3,
+    "order": 21
+  },
+  {
+    "id": "unit-22",
+    "title": "Common Words 211-220",
+    "unitTitle": "Quran Words Unit 22",
+    "description": "Ten high-frequency Quranic Arabic words ranked 211-220.",
+    "wordIds": [
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220
+    ],
+    "difficulty": 3,
+    "order": 22
+  },
+  {
+    "id": "unit-23",
+    "title": "Common Words 221-230",
+    "unitTitle": "Quran Words Unit 23",
+    "description": "Ten high-frequency Quranic Arabic words ranked 221-230.",
+    "wordIds": [
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    "difficulty": 3,
+    "order": 23
+  },
+  {
+    "id": "unit-24",
+    "title": "Common Words 231-240",
+    "unitTitle": "Quran Words Unit 24",
+    "description": "Ten high-frequency Quranic Arabic words ranked 231-240.",
+    "wordIds": [
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240
+    ],
+    "difficulty": 3,
+    "order": 24
+  },
+  {
+    "id": "unit-25",
+    "title": "Common Words 241-250",
+    "unitTitle": "Quran Words Unit 25",
+    "description": "Ten high-frequency Quranic Arabic words ranked 241-250.",
+    "wordIds": [
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ],
+    "difficulty": 3,
+    "order": 25
+  },
+  {
+    "id": "unit-26",
+    "title": "Common Words 251-260",
+    "unitTitle": "Quran Words Unit 26",
+    "description": "Ten high-frequency Quranic Arabic words ranked 251-260.",
+    "wordIds": [
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "difficulty": 3,
+    "order": 26
+  },
+  {
+    "id": "unit-27",
+    "title": "Common Words 261-270",
+    "unitTitle": "Quran Words Unit 27",
+    "description": "Ten high-frequency Quranic Arabic words ranked 261-270.",
+    "wordIds": [
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270
+    ],
+    "difficulty": 3,
+    "order": 27
+  },
+  {
+    "id": "unit-28",
+    "title": "Common Words 271-280",
+    "unitTitle": "Quran Words Unit 28",
+    "description": "Ten high-frequency Quranic Arabic words ranked 271-280.",
+    "wordIds": [
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280
+    ],
+    "difficulty": 3,
+    "order": 28
+  },
+  {
+    "id": "unit-29",
+    "title": "Common Words 281-290",
+    "unitTitle": "Quran Words Unit 29",
+    "description": "Ten high-frequency Quranic Arabic words ranked 281-290.",
+    "wordIds": [
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "difficulty": 3,
+    "order": 29
+  },
+  {
+    "id": "unit-30",
+    "title": "Common Words 291-300",
+    "unitTitle": "Quran Words Unit 30",
+    "description": "Ten high-frequency Quranic Arabic words ranked 291-300.",
+    "wordIds": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300
+    ],
+    "difficulty": 3,
+    "order": 30
+  }
+]

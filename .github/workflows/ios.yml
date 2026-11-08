@@ -1,0 +1,54 @@
+name: iOS build
+
+on:
+  push:
+    paths: ['ios-app/**', '.github/workflows/ios.yml']
+  pull_request:
+    paths: ['ios-app/**', '.github/workflows/ios.yml']
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: ios-app
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.47.9'
+          channel: stable
+          cache: true
+
+      - name: Install packages
+        run: flutter pub get
+
+      - name: Analyze
+        run: flutter analyze
+
+      - name: Test
+        run: flutter test
+
+      - name: Build iOS release (unsigned)
+        run: flutter build ios --release --no-codesign
+
+      - name: Package unsigned IPA
+        run: |
+          mkdir -p dist/Payload
+          cp -R build/ios/iphoneos/Runner.app dist/Payload/
+          cd dist && zip -qry quran_words_300_ios_unsigned.ipa Payload && rm -rf Payload
+          ls -lh
+
+      - name: Build for iOS Simulator
+        run: |
+          flutter build ios --simulator --debug
+          cd build/ios/iphonesimulator && zip -qry ../../../dist/quran_words_300_simulator.zip Runner.app
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: quran-words-300-ios
+          path: ios-app/dist/
+          retention-days: 30
